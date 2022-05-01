@@ -30,7 +30,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "ꜱᴏʀʀʏ ᴀᴍ ɴᴏᴛ ᴀᴅᴍɪɴ",
+            "IM_NOT_ADMIN": "ꜱᴏʀʀʏ ɪɴʀʟʙᴏᴛ ɪs ɴᴏᴛ ᴀᴅᴍɪɴ",
             "BANNED": "ʀᴇᴍᴏᴠᴇᴅ ꜰʀᴏᴍ ɢʀᴏᴜᴘ",
             "GIVE_ME_USER": "ɢɪᴠᴇ ᴍᴇ ᴀ ᴜꜱᴇʀ",
             "ADD_DESC": "Adds someone to the group.",
@@ -154,7 +154,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```Bye bye! I ɴᴊɴ ᴘᴏɴᴇ  🤠```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -196,17 +196,17 @@
             "NEED_TEXT_SING": "*Tell me which song to sing !*\n*Example:* ```.sing open your wings```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "GET_DESC": "Instagram youtube downloader",
-            "NEED_SOME": "Give me link \n example: .get <instagram or youtube link here>. \n\n to download youtube song (audio only) \n example: .get shape of you \n    or    \n.get https://www.youtube.com/watch?v=t1r_tmgQago mp3",
+            "NEED_SOME": "Give me link \n example: .get <instagram or youtube link here>. \n\n to download youtube song (audio only) \n example: .get shape of you \n    or    \n.get https://youtu.be/cN5aQqVZXG4 mp3",
             "LINK_TEXT": "The given link or text",
             "NO_SPRT": "Is not found or not supported",
-            "DOWNLOADING_SONG": "ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
+            "DOWNLOADING_SONG": "ɪɴʀʟʙᴏᴛ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
             "DOWNLOADING_SING": "ɢᴇᴛ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇᴀʀ ᴍᴇ ꜱɪɴɢ",
-            "UPLOADING_SONG": "ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
+            "UPLOADING_SONG": "ɪɴʀʟʙᴏᴛ ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
             "UPLOADING_SING": " ᴀʀᴇ ʏᴏᴜ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇᴀʀ ",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=t1r_tmgQago``` \n\nif .video does not work try .get",
-            "DOWNLOADING_VIDEO": "ᴡᴀɪᴛ ᴀᴍ ꜱᴇᴀʀᴄʜɪɴɢ",
-            "UPLOADING_VIDEO": "ʜᴀʜᴀ ꜰᴏᴜɴᴅ ɪᴛ",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/cN5aQqVZXG4``` \n\nif .video does not work try .get",
+            "DOWNLOADING_VIDEO": "ᴡᴀɪᴛ ɪɴʀʟʙᴏᴛ ꜱᴇᴀʀᴄʜɪɴɢ",
+            "UPLOADING_VIDEO": "ʜᴀʜᴀ ɪɴʀʟʙᴏᴛ  ꜰᴏᴜɴᴅ ɪᴛ",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -219,7 +219,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "\n*Reply to a photo or video!*\n",
-            "DOWNLOADING": "ᴄʀᴇᴀᴛɪɴɢ ꜱᴛɪᴄᴋᴇʀ"
+            "DOWNLOADING": "ɪɴʀʟʙᴏᴛ ᴄʀᴇᴀᴛɪɴɢ ꜱᴛɪᴄᴋᴇʀ"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
